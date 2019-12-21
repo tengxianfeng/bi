@@ -1,7 +1,7 @@
-package main
+package txftest
 
 import "fmt"
 
-func main(){
+func Txftest(){
 	fmt.Println("Hello , World ")
 }
